@@ -1,0 +1,4 @@
+# Djambi
+Djambi programado en Python, jugable en consola
+
+La carpeta llamada Djambi contiene todo lo necesario para jugar usando el ejecutable generado por PyInstaller (en Windows).
