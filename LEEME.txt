@@ -5,3 +5,5 @@ La carpeta llamada Djambi contiene todo lo necesario para jugar usando el ejecut
 Para poder jugar:
 1. Descomprime este .zip
 2. Abre el ejecutable Djambi.exe y juega.
+
+* Existe un script llamado probar.cmd, el cual también inicia el juego. La diferencia entre el ejecutable y el cmd es que en éste último si ocurre un error en el juego, la ventana no se cierra.
