@@ -1,7 +1,0 @@
-# Djambi
-Djambi programado en Python, jugable en consola
-
-La carpeta llamada Djambi contiene todo lo necesario para jugar usando el ejecutable generado por PyInstaller (en Windows).
-Para poder jugar:
-1. Descomprime este .zip
-2. Abre el ejecutable Djambi.exe y juega.
