@@ -8,7 +8,5 @@ def start():
 
 	turno(TAB, JUG)
 
-	return
-
 start()
 system("pause")
