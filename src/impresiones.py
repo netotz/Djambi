@@ -84,7 +84,6 @@ def imprimirTablero(tablero, jugadores):
 	print("\t\t\t\t\ta menos que sea liberado por otro equipo; o si hay un Presidente,")
 	print("\t\t\t\t\tentonces las piezas pasan a ser del Presidente y el jugador pierde.")
 	print("\t\t\t\t\tEl ganador es el último Capitán vivo o el último que pueda jugar.")
-	return
 
 def imprimirJug(jug):
 	print(Style.BRIGHT, end='')
@@ -99,16 +98,12 @@ def imprimirJug(jug):
 	print("JUGADOR",jug, end='')
 	print(Style.RESET_ALL, end='')
 
-	return
-
 def limpiar(tablero, jug, jugadores):
 	sys("cls")
 	imprimirTablero(tablero,jugadores)
 	print("\n\t", end='')
 	imprimirJug(jug)
 	print('')
-
-	return
 
 def mostrarGanador(jug):
 	print(Style.BRIGHT, end='')
@@ -117,4 +112,3 @@ def mostrarGanador(jug):
 	print(Style.BRIGHT, end='')
 	print(" ha ganado. ¡Felicidades, campeón!\n")
 	print(Style.RESET_ALL, end='')
-	return
