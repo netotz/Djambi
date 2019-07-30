@@ -250,5 +250,3 @@ def turno(tablero, jugs):
 
 		anterior = N
 		N += 1
-
-	return
