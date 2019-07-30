@@ -1,3 +1,4 @@
-Djambi, también conocido como el ajedrez de Maquiavelo, programado en Python 3 y adaptado para jugar en consola.
+Djambi, también conocido como el ajedrez de Maquiavelo, programado en Python 3 y adaptado para jugar en consola de Windows.
 
-Se necesita la librería externa `colorama`
+Librerías usadas:
+* `colorama`
