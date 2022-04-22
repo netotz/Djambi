@@ -1,8 +1,12 @@
 [**Djambi**](https://en.wikipedia.org/wiki/Djambi), also known as **Machiavelli's chessboard**, developed in Python 3 and adapted to play in Windows consoles.
 
-This was a school project from 2018. It was my first project with Python so I warn you, the code smells like dead animal. But the game works! And you'd have to trust me because I didn't write any tests, at that time I didn't even know what a unit test was lol
+This was a school project from 2018. It was my first project with Python so I warn you, the code smells like dead animal.
+More than refactored it should be rewritten, I didn't even use OOP. But the game works! And you'd have to trust me because I didn't write any tests, at that time I didn't even know what a unit test was lol
 
 The game is in Spanish.
+
+Related projects, check them out!:
+- [DjambiAI](https://github.com/Blizzsuxx/DjambiAI)
 
 ---
 
